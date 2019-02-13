@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-ListyIterator", "01-ListyIterator\01-ListyIterator.csproj", "{29EDF481-71A7-4AA3-B6C3-D07A55A5BDD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-ListyIterator", "01-ListyIterator\01-ListyIterator.csproj", "{29EDF481-71A7-4AA3-B6C3-D07A55A5BDD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Collection", "02-Collection\02-Collection.csproj", "{BB3C885D-4F13-4294-B33E-17E8F4C1ADA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Collection", "02-Collection\02-Collection.csproj", "{BB3C885D-4F13-4294-B33E-17E8F4C1ADA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Stack", "03-Stack\03-Stack.csproj", "{FD61B84B-E8D1-4E83-9132-C04E0C9D06F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Stack", "03-Stack\03-Stack.csproj", "{FD61B84B-E8D1-4E83-9132-C04E0C9D06F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Froggy", "04-Froggy\04-Froggy.csproj", "{290E8372-EBB6-470A-9241-53CCCF738C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-Froggy", "04-Froggy\04-Froggy.csproj", "{290E8372-EBB6-470A-9241-53CCCF738C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Comparing-Objects", "05-Comparing-Objects\05-Comparing-Objects.csproj", "{8E9E4114-80EA-4AE5-8188-A4214255819B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Comparing-Objects", "05-Comparing-Objects\05-Comparing-Objects.csproj", "{8E9E4114-80EA-4AE5-8188-A4214255819B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Strategy-Pattern", "06-Strategy-Pattern\06-Strategy-Pattern.csproj", "{B6F42338-7569-43B0-B77D-A1F9502A68B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-Strategy-Pattern", "06-Strategy-Pattern\06-Strategy-Pattern.csproj", "{B6F42338-7569-43B0-B77D-A1F9502A68B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Equality-Logic", "07-Equality-Logic\07-Equality-Logic.csproj", "{B890C2B1-B28C-4FC3-9DDF-56E7F937BA09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-Equality-Logic", "07-Equality-Logic\07-Equality-Logic.csproj", "{B890C2B1-B28C-4FC3-9DDF-56E7F937BA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Pet-Clinics", "08-Pet-Clinics\08-Pet-Clinics.csproj", "{308E2DC9-EBB6-4868-980F-059CCC7DF606}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B890C2B1-B28C-4FC3-9DDF-56E7F937BA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B890C2B1-B28C-4FC3-9DDF-56E7F937BA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B890C2B1-B28C-4FC3-9DDF-56E7F937BA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308E2DC9-EBB6-4868-980F-059CCC7DF606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308E2DC9-EBB6-4868-980F-059CCC7DF606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308E2DC9-EBB6-4868-980F-059CCC7DF606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308E2DC9-EBB6-4868-980F-059CCC7DF606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
